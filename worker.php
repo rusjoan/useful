@@ -6,7 +6,7 @@
  */
 
 $exitFlag = false;
-$sec = 5;
+$sec = 10;
 
 function e(string $text) {
     print(date("H:i:s") . ": " . $text . "\n");
