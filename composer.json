@@ -1,0 +1,13 @@
+{
+    "name": "rusjoan/worker-test",
+    "type": "project",
+    "description": "POSIX signals test with php-worker",
+    "authors": [
+        {
+            "name": "Evgeny Murashkin",
+            "email": "rusjoan@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
